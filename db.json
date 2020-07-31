@@ -5,6 +5,24 @@
          "nome":"Front End",
          "descricao": "Uma categoria show",
          "cor": "#cbd1ff"
+      },
+      {     
+         "id": 2,    
+         "nome":"Back End",
+         "descricao": "Uma outra categoria nem tão show assim",
+         "cor": "#cbd1ff"
+      },
+      {     
+         "id": 3,    
+         "nome":"UX",
+         "descricao": "Dá certo pelo amor de Deus",
+         "cor": "#cbd1ff"
+      },
+      {     
+         "id": 1,    
+         "nome":"Data Science",
+         "descricao": "Slá men",
+         "cor": "#cbd1ff"
       }
    ]
 }
